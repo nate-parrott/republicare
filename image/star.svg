@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="253px" height="19px" viewBox="0 0 253 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-422.000000, -282.000000)" fill="#000000">
+            <g id="Group-5" transform="translate(422.000000, 282.000000)">
+                <polygon id="Star-2" points="126.986093 14.4757813 120.814348 18.9946784 123.204901 11.728584 117 7.25532156 124.649188 7.2835254 126.986093 0 129.322999 7.2835254 136.972187 7.25532156 130.767286 11.728584 133.157839 18.9946784"></polygon>
+                <rect id="Rectangle-5" x="150" y="10" width="103" height="1"></rect>
+                <rect id="Rectangle-5" x="0" y="10" width="103" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
