@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	font-family: "Arial", sans-serif;
+}
+.width {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	max-width: 800px;
+	text-align: center;
+}
+@media screen and (min-width: 800px) {
+	#images {
+		margin-left: auto;
+		margin-right: auto;
+		width: 660px;
+		column-count: 2;
+		column-width: 300px;
+	}
+}
+#images img {
+	width: 100%;
+	max-width: 300px;
+	margin-bottom: 24px;
+}
+#images img.shadow {
+	margin-top: 9px;
+	box-shadow: 2px 2px 0px black;
+}
+#header {
+	background-image: url(image/flag2.jpg);
+	background-size: cover;
+	color: white;
+	overflow: hidden;
+	font-family: "Georgia", serif;
+	font-size: x-large;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-shadow: 0px 0px 5px black;
+}
+#intro, #here {
+	line-height: 1.5;
+	opacity: 0.7;
+	font-size: large;
+	max-width: 500px;
+	font-style: italic;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#lang {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	font-size: small;
+	text-transform: uppercase;
+	color: white;
+}
+#lang span {
+	opacity: 0.65;
+	padding-left: 10px;
+}
+
+#header, #intro, #lang, .shadow {
+	display: none;
+}
+
+#main {
+	margin-top: 1em;
+}
